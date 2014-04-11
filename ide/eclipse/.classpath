@@ -63,6 +63,7 @@
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/Calendar/extensions_src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/Calculator/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/CertInstaller/src"/>
+	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/Dialer/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/CMFileManager/libs/android-syntax-highlight/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/CMFileManager/libs/color-picker-view/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/CMFileManager/src"/>
@@ -90,7 +91,6 @@
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/PackageInstaller/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/PhoneCommon/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/Provision/src"/>
-	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/QuickSearchBox/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/Settings/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/SoundRecorder/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/Stk/src"/>
