@@ -39,6 +39,7 @@
 	<classpathentry excluding="Android.mk" kind="src" path="frameworks/opt/photoviewer/activity/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="frameworks/opt/photoviewer/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="frameworks/opt/telephony/src/java"/>
+	<classpathentry excluding="Android.mk" kind="src" path="frameworks/opt/telephony-msim/frameworks/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="frameworks/opt/timezonepicker/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="frameworks/opt/vcard/java"/>
 	<classpathentry excluding="Android.mk" kind="src" path="frameworks/support/cm/src"/>
